@@ -1,4 +1,4 @@
-# IAM Lab 4: Launch EC2, Attach IAM Role, Test from Console & Localhost
+# IAM Lab 6: Launch EC2, Attach IAM Role, Test from Console & Localhost
 
 ## Introduction
 
